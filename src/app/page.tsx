@@ -10,7 +10,7 @@ export default function Home() {
         </p>
         <div className="bg-white rounded-lg shadow-lg p-6 max-w-md mx-auto">
           <h2 className="text-2xl font-semibold text-gray-700 mb-4">
-            Server Status Test
+            Server Status Test 2
           </h2>
           <div className="flex items-center justify-center">
             <div className="w-3 h-3 bg-green-500 rounded-full mr-2"></div>
