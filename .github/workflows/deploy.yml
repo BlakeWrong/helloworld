@@ -21,4 +21,4 @@ jobs:
         script: |
           cd /mnt/user/appdata/helloworld
           git pull origin master
-          npm run build
+          docker restart test123
